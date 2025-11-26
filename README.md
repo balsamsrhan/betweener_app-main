@@ -8,7 +8,7 @@ The app includes Onboarding, Authentication, Home, Scan, Followers, Profile, Edi
 ## 📸 Screens and Flow
 
 <div align="center">
-  <img src="assets/betweener app" width="1000" />
+  <img src="assets/imgs/ betweener app.png" width="1000" />
 </div>
 
 ---
@@ -47,4 +47,5 @@ GitHub: https://github.com/balsamsrhan
 LinkedIn: https://www.linkedin.com/in/balsam-serhan/
 
 Email: serhanbalsam54@gmail.com
+
 
